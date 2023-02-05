@@ -1,0 +1,38 @@
+#imagencangrejo {
+    width: 100px;
+    height: 100px;
+    margin-top: 5%;
+}
+ body {
+    background-color: #fff;
+    color: #333;
+  }
+  nav {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+   
+    padding: 10px;
+    text-align: left;
+  }
+  
+  
+#dark-mode-btn {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    left: 50;
+    right: 0;
+    background-size: 10%;
+  }
+  
+  .dark-mode {
+    background-color: #333;
+    color: #fff;
+  }
